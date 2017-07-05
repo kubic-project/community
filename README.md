@@ -22,5 +22,3 @@ given at openSUSE conference 2017 and the video below.
 [![openSUSE Conference
 2017](assets/yt_conf_talk.png)](https://www.youtube.com/watch?v=OoRZbrMziSM)
 
-Kubic is a work in progress and we need your help to make it better, if you
-find problems with the ISO, please open an issue with this repo.
