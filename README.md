@@ -1,14 +1,14 @@
 # Kubic
 
-This repository servers as documentation and a catch-all bug tracker for the
-open source version of CaaS Platform - Kubic.   
+This repository servers as documentation for the
+open source version of SUSE CaaS Platform - Kubic.   
 You can read a short introduction to Kubic on [SUSE's
 blog](https://www.suse.com/communities/blog/introducing-kubic-project-new-open-source-project/).
 
-The latest ISO can be downloaded from [SUSE's
+The latest ISO can be downloaded from [openSUSE's
 website](http://download.opensuse.org/tumbleweed/iso/).
 
-Since Kubic is an ongoing community effort, the [CaaS Platform
+Since Kubic is an ongoing community effort, the [SUSE CaaS Platform
 documentation](https://www.suse.com/betaprogram/caasp-beta/doc-quickstart/) can
 be used for now.
 
